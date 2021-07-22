@@ -19,3 +19,13 @@ It aims to solve crop value prediction problem in an efficient way to ensure the
  - Scikit-Learn - Importing Various Techniques
  - CSS - for Styling
  - Chart.js - for plotting Graphical Representaions
+
+Installation Guide:-
+Python(3 or above) and pip needed on your system
+
+run these commands on cmd
+ $git clone https://github.com/RachitJain1999/Crop_prediction.git
+ $cd Crop_prediction
+ pip install -r requirements.txt
+ python app.py
+ 
