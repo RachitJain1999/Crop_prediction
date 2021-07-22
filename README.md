@@ -24,8 +24,7 @@ Installation Guide:-
 Python(3 or above) and pip needed on your system
 
 run these commands on cmd
- $git clone https://github.com/RachitJain1999/Crop_prediction.git
- $cd Crop_prediction
- pip install -r requirements.txt
- python app.py
- 
+ - git clone https://github.com/RachitJain1999/Crop_prediction.git
+ - cd Crop_prediction
+ - pip install -r requirements.txt
+ - python app.py
