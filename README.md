@@ -2,7 +2,7 @@
 It aims to solve crop value prediction problem in an efficient way to ensure the guaranteed benefits to the poor farmers.
 
 
- Features
+ # Features
  - Around 23 commodities(including all kind of crops) crop value forecasting
  - Crop detailed forecast upto next 12 months
  - Top Gainers and Losers of current time
@@ -13,17 +13,17 @@ It aims to solve crop value prediction problem in an efficient way to ensure the
  - Annual Rainfall, WPI(Wholesale Price Index) datasets are used for training the model
  - User friendly UI made by using materializecss
 
- Tech
+ # Tech stack
  - Python(3 or above)
  - Flask - web framework
  - Scikit-Learn - Importing Various Techniques
  - CSS - for Styling
  - Chart.js - for plotting Graphical Representaions
 
-Installation Guide:-
+# Installation Guide:-
 Python(3 or above) and pip needed on your system
 
-run these commands on cmd
+# Run these commands on cmd
  - git clone https://github.com/RachitJain1999/Crop_prediction.git
  - cd Crop_prediction
  - pip install -r requirements.txt
