@@ -28,3 +28,7 @@ run these commands on cmd
  - cd Crop_prediction
  - pip install -r requirements.txt
  - python app.py
+
+![Screenshot (43)](https://user-images.githubusercontent.com/49223863/127122480-dd26ea64-aef8-45b4-89af-e078d2d1a2a1.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/49223863/127122503-0eba2b3f-a8ef-41d8-8142-8ebc893e78f2.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/49223863/127122516-1ada6c75-2bea-4e40-a060-89bc3dc33549.png)
