@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  2 21:46:27 2019
-
-@author: PRATYUSH, Rahul, Somya, Abhay
-"""
 
 from flask import Flask, render_template
 from flask_cors import CORS, cross_origin
