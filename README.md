@@ -23,7 +23,7 @@ It aims to solve the crop value prediction problem in an efficient way to ensure
 # Installation Guide:-
 Python(3 or above) and pip needed on your system
 
-# Run these commands on cmd
+# Run these commands on cmd for Local run
  - git clone https://github.com/RachitJain1999/Crop_prediction.git
  - cd Crop_prediction
  - pip install -r requirements.txt
