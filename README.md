@@ -15,7 +15,7 @@ It aims to solve the crop value prediction problem in an efficient way to ensure
 
  # Tech stack
  - Python(3 or above)
- - Flask - web framework
+ - Flask -  web framework
  - Scikit-Learn - Importing Various Techniques
  - CSS - for Styling
  - Chart.js - for plotting Graphical Representaions
